@@ -1,0 +1,8 @@
+{
+  "appVersion": "1.1",
+  "farmVersion" : "1.1",
+  "forceDeployFarm" : false,
+  "lastDeployedFarmVersion" : "1.1",
+  "autoPromotion" : true,
+  "promoteCode" : "1"
+}
